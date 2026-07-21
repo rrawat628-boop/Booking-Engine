@@ -1,0 +1,716 @@
+{
+  "properties": [
+    {
+      "name": "Amber Moon – Your Private Luxury Holiday Rental Retreat",
+      "location": " Haripur, Himachal Pradesh 173209",
+      "address": "Amber Moon, V2XR+6M8, Haripur, Himachal Pradesh 173209",
+      "description": "The property features 3 beautifully furnished bedrooms and comfortably accommodates up to 8–10 guests, making it ideal for weekend getaways, celebrations, workations, and relaxing vacations.",
+      "image_url": "/src/assets/images/uploaded_1784137328857_199.png,/src/assets/images/amber_moon_ext_1784095924737.jpg,/src/assets/images/amber_moon_bed_1784095937887.jpg,/src/assets/images/amber_moon_lounge_1784095949092.jpg,/src/assets/images/amber_moon_garden_1784095963061.jpg",
+      "contact_email": "web.digikee@gmail.com",
+      "contact_phone": "7404807008",
+      "amenities": [
+        "Air Conditioning",
+        "Attached Bathroom",
+        "Bar",
+        "Family rooms",
+        "Free Car Parking",
+        "Fully Furnished",
+        "Home Cooked Indian Cuisine",
+        "Kids Play Area",
+        "Billiards Table",
+        "Wi-Fi",
+        "Bonfire and Barbecue"
+      ],
+      "owner_id": "owner-digikee",
+      "id": "prop-1783406831137",
+      "map_url": "https://www.google.com/maps?cid=6902260040436143863&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAMYASAF&hl=en-US&source=embed"
+    },
+    {
+      "name": "The White Rose",
+      "location": " Dagshai, Himachal Pradesh 173229",
+      "address": "The White Rose, Village Anhech, Area, Dagshai, Himachal Pradesh 173229",
+      "description": "With 4 beautifully appointed bedrooms, the villa comfortably accommodates up to 12 guests, offering the perfect blend of comfort, privacy, and scenic beauty.",
+      "image_url": "/src/assets/images/white_rose_ext_1784095978792.jpg,/src/assets/images/white_rose_bed_1784095989454.jpg,/src/assets/images/white_rose_balcony_1784096001928.jpg,/src/assets/images/white_rose_dining_1784096012734.jpg,/src/assets/images/white_rose_garden_1784096024112.jpg",
+      "contact_email": "web.digikee@gmail.com",
+      "contact_phone": "7404807008",
+      "amenities": [
+        "Air Conditioning",
+        "Attached Bathroom",
+        "Bar",
+        "Family rooms",
+        "Free Car Parking",
+        "Free Wifi",
+        "Fully Furnished",
+        "Home Cooked Indian Cuisine",
+        "Kids Play Area",
+        "Billiards Table",
+        "Wi-Fi",
+        "Bonfire and Barbecue"
+      ],
+      "owner_id": "owner-digikee",
+      "map_url": "https://www.google.com/maps?cid=17840905776697739174&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAMYASAF&hl=en-US&source=embed",
+      "id": "prop-1783417200358"
+    }
+  ],
+  "rooms": [
+    {
+      "property_id": "prop-1783406831137",
+      "name": "Vocational Villa",
+      "type": "Villa",
+      "base_price": 30000,
+      "capacity_adults": 9,
+      "capacity_children": 0,
+      "total_inventory": 1,
+      "description": "Nestled in a peaceful and scenic setting, Amber Moon is an exclusive holiday rental designed for families, friends, and small groups seeking comfort, privacy, and modern amenities.",
+      "amenities": [
+        ""
+      ],
+      "images": [
+        "/src/assets/images/amber_moon_retreat_1783409576594.jpg",
+        "/src/assets/images/amber_moon_ext_1784095924737.jpg",
+        "/src/assets/images/amber_moon_bed_1784095937887.jpg",
+        "/src/assets/images/amber_moon_lounge_1784095949092.jpg",
+        "/src/assets/images/amber_moon_garden_1784095963061.jpg"
+      ],
+      "id": "room-1783417331396"
+    },
+    {
+      "property_id": "prop-1783417200358",
+      "name": "Ground Floor",
+      "type": "Villa",
+      "base_price": 25000,
+      "capacity_adults": 5,
+      "capacity_children": 0,
+      "total_inventory": -1,
+      "description": "Located on the ground floor of The White Rose, featuring beautifully appointed bedrooms, a spacious layout, cozy common spaces, and a picturesque mountain backdrop.",
+      "amenities": [
+        ""
+      ],
+      "images": [
+        "/src/assets/images/white_rose_ext_1784095978792.jpg",
+        "/src/assets/images/white_rose_bed_1784095989454.jpg",
+        "/src/assets/images/white_rose_balcony_1784096001928.jpg",
+        "/src/assets/images/white_rose_dining_1784096012734.jpg",
+        "/src/assets/images/white_rose_garden_1784096024112.jpg"
+      ],
+      "id": "room-1783417421007"
+    },
+    {
+      "property_id": "prop-1783417200358",
+      "name": "First Floor",
+      "type": "Villa",
+      "base_price": 25000,
+      "capacity_adults": 5,
+      "capacity_children": 0,
+      "total_inventory": -1,
+      "description": "Located on the first floor of The White Rose, featuring elegant bedrooms, private balcony access with panoramic valley vistas, and spacious modern amenities.",
+      "amenities": [
+        ""
+      ],
+      "images": [
+        "/src/assets/images/white_rose_bed_1784095989454.jpg",
+        "/src/assets/images/white_rose_balcony_1784096001928.jpg",
+        "/src/assets/images/white_rose_dining_1784096012734.jpg",
+        "/src/assets/images/white_rose_ext_1784095978792.jpg",
+        "/src/assets/images/white_rose_garden_1784096024112.jpg"
+      ],
+      "id": "room-1783417592486"
+    }
+  ],
+  "guests": [
+    {
+      "id": "guest-1",
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "phone": "+1 555-0100",
+      "address": "123 Maple St, Seattle, WA"
+    },
+    {
+      "id": "guest-2",
+      "name": "Robert Johnson",
+      "email": "robert.j@example.com",
+      "phone": "+1 555-0172",
+      "address": "742 Evergreen Terrace, Springfield"
+    },
+    {
+      "id": "guest-3",
+      "name": "Rahul Sharma",
+      "email": "rahul.sharma@example.com",
+      "phone": "+91 98112 34567",
+      "address": "Sector 15, Chandigarh, India"
+    },
+    {
+      "id": "guest-4",
+      "name": "Pooja Rawat",
+      "email": "pooja.rawat@example.com",
+      "phone": "+91 98765 12345",
+      "address": "Saket, New Delhi, India"
+    },
+    {
+      "id": "guest-1783419761290",
+      "name": "riya rawat",
+      "email": "rrawat628@gmail.com",
+      "phone": "9354807008",
+      "address": "123,abc"
+    }
+  ],
+  "bookings": [
+    {
+      "id": "bk-1001",
+      "property_id": "prop-1783406831137",
+      "room_id": "room-1783417331396",
+      "guest_id": "guest-1",
+      "check_in": "2026-07-01",
+      "check_out": "2026-07-05",
+      "total_amount": 4800,
+      "coupon_id": "coupon-1",
+      "discount_amount": 480,
+      "status": "Checked-out",
+      "payment_status": "Paid",
+      "guests_count": {
+        "adults": 2,
+        "children": 1
+      },
+      "created_at": "2026-06-15T14:30:00Z",
+      "notes": "Requested early check-in.",
+      "sync_source": null
+    },
+    {
+      "id": "bk-1002",
+      "property_id": "prop-1783406831137",
+      "room_id": "room-1783417421007",
+      "guest_id": "guest-2",
+      "check_in": "2026-07-05",
+      "check_out": "2026-07-09",
+      "total_amount": 4800,
+      "coupon_id": null,
+      "discount_amount": 0,
+      "status": "Checked-in",
+      "payment_status": "Paid",
+      "guests_count": {
+        "adults": 2,
+        "children": 0
+      },
+      "created_at": "2026-06-20T10:15:00Z",
+      "notes": "Late arrival.",
+      "sync_source": null
+    },
+    {
+      "id": "bk-1003",
+      "property_id": "prop-1783417200358",
+      "room_id": "room-1783417772708",
+      "guest_id": "guest-1",
+      "check_in": "2026-07-10",
+      "check_out": "2026-07-15",
+      "total_amount": 5000,
+      "coupon_id": "coupon-3",
+      "discount_amount": 1000,
+      "status": "Confirmed",
+      "payment_status": "Paid",
+      "guests_count": {
+        "adults": 2,
+        "children": 1
+      },
+      "created_at": "2026-07-02T16:45:00Z",
+      "notes": "High floor preference.",
+      "sync_source": "Booking.com"
+    },
+    {
+      "id": "bk-1004",
+      "property_id": "prop-1783406831137",
+      "room_id": "room-1783417331396",
+      "guest_id": "guest-3",
+      "check_in": "2026-07-12",
+      "check_out": "2026-07-16",
+      "total_amount": 4800,
+      "coupon_id": null,
+      "discount_amount": 0,
+      "status": "Confirmed",
+      "payment_status": "Paid",
+      "guests_count": {
+        "adults": 2,
+        "children": 1
+      },
+      "created_at": "2026-07-01T12:00:00Z",
+      "notes": "Prefers double bed and pristine valley view.",
+      "sync_source": null
+    },
+    {
+      "id": "bk-1005",
+      "property_id": "prop-1783406831137",
+      "room_id": "room-1783417592486",
+      "guest_id": "guest-4",
+      "check_in": "2026-07-20",
+      "check_out": "2026-07-24",
+      "total_amount": 4800,
+      "coupon_id": "coupon-3",
+      "discount_amount": 1200,
+      "status": "Confirmed",
+      "payment_status": "Paid",
+      "guests_count": {
+        "adults": 4,
+        "children": 2
+      },
+      "created_at": "2026-07-02T15:30:00Z",
+      "notes": "Family vacation. Please arrange simple local home-cooked dinner.",
+      "sync_source": null
+    },
+    {
+      "id": "bk-1006",
+      "property_id": "prop-1783417200358",
+      "room_id": "room-1783418395113",
+      "guest_id": "guest-3",
+      "check_in": "2026-07-18",
+      "check_out": "2026-07-21",
+      "total_amount": 6000,
+      "coupon_id": null,
+      "discount_amount": 0,
+      "status": "Checked-in",
+      "payment_status": "Paid",
+      "guests_count": {
+        "adults": 2,
+        "children": 0
+      },
+      "created_at": "2026-07-05T09:12:00Z",
+      "notes": "Looking for clear sunrise views over the mountains.",
+      "sync_source": "Airbnb"
+    },
+    {
+      "id": "bk-1783419761290",
+      "property_id": "prop-1783406831137",
+      "room_id": "room-1783417421007",
+      "guest_id": "guest-1783419761290",
+      "check_in": "2026-07-17",
+      "check_out": "2026-07-19",
+      "total_amount": 2400,
+      "coupon_id": null,
+      "discount_amount": 0,
+      "status": "Confirmed",
+      "payment_status": "Paid",
+      "guests_count": {
+        "adults": 4,
+        "children": 2
+      },
+      "created_at": "2026-07-07T10:22:41.290Z",
+      "notes": "abc",
+      "sync_source": null
+    },
+    {
+      "id": "bk-1784112777251",
+      "property_id": "prop-1783406831137",
+      "room_id": "room-1783417331396",
+      "guest_id": "guest-1783419761290",
+      "check_in": "2026-08-08",
+      "check_out": "2026-08-10",
+      "total_amount": 60000,
+      "discount_amount": 0,
+      "status": "Confirmed",
+      "payment_status": "Partially Paid",
+      "guests_count": {
+        "adults": 2,
+        "children": 0
+      },
+      "created_at": "2026-07-15T10:52:57.251Z",
+      "notes": "098\n[Partial Payment Choice]: Paid 30% deposit. Remaining balance of ₹46200 to be paid at property check-in.",
+      "sync_source": null
+    }
+  ],
+  "payments": [
+    {
+      "id": "pay-1",
+      "booking_id": "bk-1001",
+      "gateway_payment_id": "pay_rzp_mock_111",
+      "gateway_order_id": "order_rzp_mock_111",
+      "amount": 4320,
+      "status": "Success",
+      "method": "Credit Card",
+      "created_at": "2026-06-15T14:32:10Z"
+    },
+    {
+      "id": "pay-2",
+      "booking_id": "bk-1002",
+      "gateway_payment_id": "pay_rzp_mock_222",
+      "gateway_order_id": "order_rzp_mock_222",
+      "amount": 4800,
+      "status": "Success",
+      "method": "UPI",
+      "created_at": "2026-06-20T10:17:33Z"
+    },
+    {
+      "id": "pay-3",
+      "booking_id": "bk-1003",
+      "gateway_payment_id": "pay_rzp_mock_333",
+      "gateway_order_id": "order_rzp_mock_333",
+      "amount": 4000,
+      "status": "Success",
+      "method": "Net Banking",
+      "created_at": "2026-07-02T16:47:01Z"
+    },
+    {
+      "id": "pay-4",
+      "booking_id": "bk-1004",
+      "gateway_payment_id": "pay_rzp_live_7834091122",
+      "gateway_order_id": "order_rzp_live_7834091122",
+      "amount": 4800,
+      "status": "Success",
+      "method": "UPI (Google Pay)",
+      "created_at": "2026-07-01T12:05:32Z"
+    },
+    {
+      "id": "pay-5",
+      "booking_id": "bk-1005",
+      "gateway_payment_id": "pay_rzp_live_9011223344",
+      "gateway_order_id": "order_rzp_live_9011223344",
+      "amount": 4800,
+      "status": "Success",
+      "method": "Credit Card",
+      "created_at": "2026-07-02T15:34:11Z"
+    },
+    {
+      "id": "pay-6",
+      "booking_id": "bk-1006",
+      "gateway_payment_id": "pay_rzp_live_1223344556",
+      "gateway_order_id": "order_rzp_live_1223344556",
+      "amount": 6000,
+      "status": "Success",
+      "method": "Net Banking",
+      "created_at": "2026-07-05T09:15:43Z"
+    },
+    {
+      "id": "pay-1783419761290",
+      "booking_id": "bk-1783419761290",
+      "gateway_payment_id": "pay_rzp_jl7y0ialf",
+      "gateway_order_id": "order_rzp_wqdlusshy",
+      "amount": 2400,
+      "status": "Success",
+      "method": "Credit Card",
+      "created_at": "2026-07-07T10:22:41.290Z"
+    },
+    {
+      "id": "pay-1784112777251",
+      "booking_id": "bk-1784112777251",
+      "gateway_payment_id": "pay_rzp_km8nlq7j5",
+      "gateway_order_id": "order_rzp_1lel9m0mi",
+      "amount": 19800,
+      "status": "Success",
+      "method": "Credit Card",
+      "created_at": "2026-07-15T10:52:57.251Z"
+    }
+  ],
+  "coupons": [
+    {
+      "id": "coupon-1",
+      "code": "WELCOME10",
+      "discount_type": "Percentage",
+      "discount_value": 10,
+      "min_booking_amount": 0,
+      "start_date": "2026-01-01",
+      "end_date": "2027-12-31",
+      "active": true
+    },
+    {
+      "id": "coupon-2",
+      "code": "HOLIDAYMAX",
+      "discount_type": "Fixed",
+      "discount_value": 50,
+      "min_booking_amount": 300,
+      "start_date": "2026-01-01",
+      "end_date": "2027-12-31",
+      "active": true
+    },
+    {
+      "id": "coupon-3",
+      "code": "SUMMER26",
+      "discount_type": "Percentage",
+      "discount_value": 20,
+      "min_booking_amount": 250,
+      "start_date": "2026-06-01",
+      "end_date": "2026-09-30",
+      "active": true
+    }
+  ],
+  "availabilityOverrides": [
+    {
+      "room_id": "room-1783417331396",
+      "date": "2026-07-01",
+      "price_override": null,
+      "is_blackout": false,
+      "notes": null,
+      "id": "ov-1783420085637"
+    },
+    {
+      "room_id": "room-1783417331396",
+      "date": "2026-07-02",
+      "price_override": null,
+      "is_blackout": false,
+      "notes": null,
+      "id": "ov-1783420085776"
+    },
+    {
+      "room_id": "room-1783417331396",
+      "date": "2026-07-03",
+      "price_override": null,
+      "is_blackout": false,
+      "notes": null,
+      "id": "ov-1783420085913"
+    },
+    {
+      "room_id": "room-1783417331396",
+      "date": "2026-07-04",
+      "price_override": null,
+      "is_blackout": false,
+      "notes": null,
+      "id": "ov-1783420086044"
+    },
+    {
+      "room_id": "room-1783417331396",
+      "date": "2026-07-05",
+      "price_override": null,
+      "is_blackout": false,
+      "notes": null,
+      "id": "ov-1783420086177"
+    },
+    {
+      "room_id": "room-1783417331396",
+      "date": "2026-07-06",
+      "price_override": null,
+      "is_blackout": false,
+      "notes": null,
+      "id": "ov-1783420086315"
+    },
+    {
+      "room_id": "room-1783417331396",
+      "date": "2026-07-07",
+      "price_override": null,
+      "is_blackout": false,
+      "notes": null,
+      "id": "ov-1783420086450"
+    },
+    {
+      "room_id": "room-1783417331396",
+      "date": "2026-07-08",
+      "price_override": null,
+      "is_blackout": false,
+      "notes": null,
+      "id": "ov-1783420086585"
+    },
+    {
+      "room_id": "room-1783417331396",
+      "date": "2026-07-09",
+      "price_override": null,
+      "is_blackout": false,
+      "notes": null,
+      "id": "ov-1783420086753"
+    },
+    {
+      "room_id": "room-1783417331396",
+      "date": "2026-07-10",
+      "price_override": null,
+      "is_blackout": false,
+      "notes": null,
+      "id": "ov-1783420086884"
+    },
+    {
+      "room_id": "room-1783417331396",
+      "date": "2026-07-11",
+      "price_override": null,
+      "is_blackout": false,
+      "notes": null,
+      "id": "ov-1783420087050"
+    },
+    {
+      "room_id": "room-1783417331396",
+      "date": "2026-07-12",
+      "price_override": null,
+      "is_blackout": false,
+      "notes": null,
+      "id": "ov-1783420087183"
+    },
+    {
+      "room_id": "room-1783417331396",
+      "date": "2026-07-13",
+      "price_override": null,
+      "is_blackout": false,
+      "notes": null,
+      "id": "ov-1783420087312"
+    },
+    {
+      "room_id": "room-1783417331396",
+      "date": "2026-07-14",
+      "price_override": null,
+      "is_blackout": false,
+      "notes": null,
+      "id": "ov-1783420087449"
+    },
+    {
+      "room_id": "room-1783417331396",
+      "date": "2026-07-15",
+      "price_override": null,
+      "is_blackout": false,
+      "notes": null,
+      "id": "ov-1783420087583"
+    },
+    {
+      "room_id": "room-1783417331396",
+      "date": "2026-07-16",
+      "price_override": null,
+      "is_blackout": false,
+      "notes": null,
+      "id": "ov-1783420087721"
+    },
+    {
+      "room_id": "room-1783417331396",
+      "date": "2026-07-17",
+      "price_override": null,
+      "is_blackout": false,
+      "notes": null,
+      "id": "ov-1783420087855"
+    },
+    {
+      "room_id": "room-1783417331396",
+      "date": "2026-07-18",
+      "price_override": null,
+      "is_blackout": false,
+      "notes": null,
+      "id": "ov-1783420087984"
+    },
+    {
+      "room_id": "room-1783417331396",
+      "date": "2026-07-19",
+      "price_override": null,
+      "is_blackout": false,
+      "notes": null,
+      "id": "ov-1783420088133"
+    },
+    {
+      "room_id": "room-1783417331396",
+      "date": "2026-07-20",
+      "price_override": null,
+      "is_blackout": false,
+      "notes": null,
+      "id": "ov-1783420088268"
+    },
+    {
+      "room_id": "room-1783417331396",
+      "date": "2026-07-21",
+      "price_override": null,
+      "is_blackout": false,
+      "notes": null,
+      "id": "ov-1783420088403"
+    },
+    {
+      "room_id": "room-1783417331396",
+      "date": "2026-07-22",
+      "price_override": null,
+      "is_blackout": false,
+      "notes": null,
+      "id": "ov-1783420088538"
+    },
+    {
+      "room_id": "room-1783417331396",
+      "date": "2026-07-23",
+      "price_override": null,
+      "is_blackout": false,
+      "notes": null,
+      "id": "ov-1783420088667"
+    },
+    {
+      "room_id": "room-1783417331396",
+      "date": "2026-07-24",
+      "price_override": null,
+      "is_blackout": false,
+      "notes": null,
+      "id": "ov-1783420088806"
+    },
+    {
+      "room_id": "room-1783417331396",
+      "date": "2026-07-25",
+      "price_override": null,
+      "is_blackout": false,
+      "notes": null,
+      "id": "ov-1783420088939"
+    },
+    {
+      "room_id": "room-1783417331396",
+      "date": "2026-07-26",
+      "price_override": null,
+      "is_blackout": false,
+      "notes": null,
+      "id": "ov-1783420089072"
+    },
+    {
+      "room_id": "room-1783417331396",
+      "date": "2026-07-27",
+      "price_override": null,
+      "is_blackout": false,
+      "notes": null,
+      "id": "ov-1783420089204"
+    },
+    {
+      "room_id": "room-1783417331396",
+      "date": "2026-07-28",
+      "price_override": null,
+      "is_blackout": false,
+      "notes": null,
+      "id": "ov-1783420089351"
+    },
+    {
+      "room_id": "room-1783417331396",
+      "date": "2026-07-29",
+      "price_override": null,
+      "is_blackout": false,
+      "notes": null,
+      "id": "ov-1783420089491"
+    },
+    {
+      "room_id": "room-1783417331396",
+      "date": "2026-07-30",
+      "price_override": null,
+      "is_blackout": false,
+      "notes": null,
+      "id": "ov-1783420089622"
+    },
+    {
+      "room_id": "room-1783417331396",
+      "date": "2026-07-31",
+      "price_override": null,
+      "is_blackout": false,
+      "notes": null,
+      "id": "ov-1783420089759"
+    }
+  ],
+  "syncChannels": [],
+  "emailLogs": [
+    {
+      "id": "em-1",
+      "to": "jane.smith@example.com",
+      "subject": "Booking Confirmation: Grand Plaza Hotel & Spa (#bk-1001)",
+      "html": "<h3>Dear Jane,</h3><p>Your booking <b>bk-1001</b> has been confirmed!</p><p><b>Hotel:</b> Grand Plaza Hotel & Spa<br><b>Room:</b> Superior Park View Suite<br><b>Check-in:</b> 2026-07-01<br><b>Check-out:</b> 2026-07-05</p><p>Thank you for choosing Holiday Rentals!</p>",
+      "sent_at": "2026-06-15T14:32:15Z"
+    },
+    {
+      "to": "rrawat628@gmail.com",
+      "subject": "Booking Confirmation: Amber Moon – Your Private Luxury Holiday Rental Retreat (#bk-1783419761290)",
+      "html": "\n    <div style=\"font-family: 'Inter', Helvetica, Arial, sans-serif; max-width: 600px; margin: 0 auto; padding: 24px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff;\">\n      <div style=\"text-align: center; border-bottom: 2px solid #3b82f6; padding-bottom: 16px; margin-bottom: 24px;\">\n        <h1 style=\"color: #1e3a8a; margin: 0; font-size: 24px;\">Holiday Rentals Booking Engine</h1>\n        <p style=\"color: #64748b; margin: 4px 0 0 0; font-size: 14px;\">Instant Booking Confirmation</p>\n      </div>\n\n      <p style=\"font-size: 16px; color: #334155;\">Dear <strong>riya rawat</strong>,</p>\n      <p style=\"font-size: 15px; color: #475569; line-height: 1.5;\">\n        Thank you for booking with us! Your reservation is confirmed. Below are the details of your upcoming stay at <strong>Amber Moon – Your Private Luxury Holiday Rental Retreat</strong>.\n      </p>\n\n      <div style=\"background-color: #f8fafc; border-radius: 8px; padding: 16px; margin: 24px 0; border: 1px solid #f1f5f9;\">\n        <h3 style=\"color: #0f172a; margin-top: 0; border-bottom: 1px solid #e2e8f0; padding-bottom: 8px;\">Reservation Summary</h3>\n        <table style=\"width: 100%; border-collapse: collapse; font-size: 14px; color: #334155;\">\n          <tr>\n            <td style=\"padding: 6px 0; font-weight: 600;\">Booking ID:</td>\n            <td style=\"padding: 6px 0; text-align: right; font-family: monospace; color: #2563eb; font-weight: bold;\">bk-1783419761290</td>\n          </tr>\n          <tr>\n            <td style=\"padding: 6px 0; font-weight: 600;\">Property:</td>\n            <td style=\"padding: 6px 0; text-align: right;\">Amber Moon – Your Private Luxury Holiday Rental Retreat</td>\n          </tr>\n          <tr>\n            <td style=\"padding: 6px 0; font-weight: 600;\">Address:</td>\n            <td style=\"padding: 6px 0; text-align: right; color: #64748b; font-size: 12px;\">Amber Moon, V2XR+6M8, Haripur, Himachal Pradesh 173209</td>\n          </tr>\n          <tr>\n            <td style=\"padding: 6px 0; font-weight: 600;\">Room Type:</td>\n            <td style=\"padding: 6px 0; text-align: right;\">Executive Suite (Executive Suite)</td>\n          </tr>\n          <tr>\n            <td style=\"padding: 6px 0; font-weight: 600;\">Check-in Date:</td>\n            <td style=\"padding: 6px 0; text-align: right; color: #16a34a; font-weight: 600;\">2026-07-17 (from 14:00)</td>\n          </tr>\n          <tr>\n            <td style=\"padding: 6px 0; font-weight: 600;\">Check-out Date:</td>\n            <td style=\"padding: 6px 0; text-align: right; color: #dc2626; font-weight: 600;\">2026-07-19 (by 11:00)</td>\n          </tr>\n          <tr>\n            <td style=\"padding: 6px 0; font-weight: 600;\">Guests:</td>\n            <td style=\"padding: 6px 0; text-align: right;\">4 Adults, 2 Children</td>\n          </tr>\n        </table>\n      </div>\n\n      <div style=\"background-color: #f0fdf4; border-radius: 8px; padding: 16px; margin: 24px 0; border: 1px solid #dcfce7;\">\n        <h3 style=\"color: #166534; margin-top: 0; border-bottom: 1px solid #bbf7d0; padding-bottom: 8px;\">Payment Details</h3>\n        <table style=\"width: 100%; border-collapse: collapse; font-size: 14px; color: #334155;\">\n          <tr>\n            <td style=\"padding: 6px 0;\">Total Room Charges:</td>\n            <td style=\"padding: 6px 0; text-align: right;\">$2400.00</td>\n          </tr>\n          \n          <tr style=\"border-top: 1px solid #bbf7d0; font-size: 16px; font-weight: bold; color: #14532d;\">\n            <td style=\"padding: 10px 0 0 0;\">Total Amount Paid:</td>\n            <td style=\"padding: 10px 0 0 0; text-align: right;\">$2400.00</td>\n          </tr>\n          <tr>\n            <td style=\"padding: 4px 0; font-size: 11px; color: #166534;\">Status:</td>\n            <td style=\"padding: 4px 0; text-align: right; font-size: 11px; color: #166534; font-weight: bold;\">PAID via Razorpay Secure Gateway</td>\n          </tr>\n        </table>\n      </div>\n\n      <p style=\"font-size: 14px; color: #64748b; line-height: 1.5; margin-top: 32px; border-top: 1px solid #e2e8f0; padding-top: 16px;\">\n        If you need to make modifications or cancel your booking, please call us at <strong>0987654321</strong> or reply to this email at <strong>web.digikee@gmail.com</strong>.\n      </p>\n\n      <div style=\"text-align: center; margin-top: 24px; font-size: 11px; color: #94a3b8;\">\n        &copy; 2026 Holiday Rentals Max Channel & Booking Engine. Secured Relational Persistence System.\n      </div>\n    </div>\n  ",
+      "id": "em-1783419761291",
+      "sent_at": "2026-07-07T10:22:41.291Z"
+    },
+    {
+      "to": "rrawat628@gmail.com",
+      "subject": "Booking Confirmation: Amber Moon – Your Private Luxury Holiday Rental Retreat (#bk-1784112777251)",
+      "html": "\n    <div style=\"font-family: 'Inter', Helvetica, Arial, sans-serif; max-width: 600px; margin: 0 auto; padding: 24px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff;\">\n      <div style=\"text-align: center; border-bottom: 2px solid #3b82f6; padding-bottom: 16px; margin-bottom: 24px;\">\n        <h1 style=\"color: #1e3a8a; margin: 0; font-size: 24px;\">Holiday Rentals Booking Engine</h1>\n        <p style=\"color: #64748b; margin: 4px 0 0 0; font-size: 14px;\">Instant Booking Confirmation</p>\n      </div>\n\n      <p style=\"font-size: 16px; color: #334155;\">Dear <strong>riya rawat</strong>,</p>\n      <p style=\"font-size: 15px; color: #475569; line-height: 1.5;\">\n        Thank you for booking with us! Your reservation is confirmed. Below are the details of your upcoming stay at <strong>Amber Moon – Your Private Luxury Holiday Rental Retreat</strong>.\n      </p>\n\n      <div style=\"background-color: #f8fafc; border-radius: 8px; padding: 16px; margin: 24px 0; border: 1px solid #f1f5f9;\">\n        <h3 style=\"color: #0f172a; margin-top: 0; border-bottom: 1px solid #e2e8f0; padding-bottom: 8px;\">Reservation Summary</h3>\n        <table style=\"width: 100%; border-collapse: collapse; font-size: 14px; color: #334155;\">\n          <tr>\n            <td style=\"padding: 6px 0; font-weight: 600;\">Booking ID:</td>\n            <td style=\"padding: 6px 0; text-align: right; font-family: monospace; color: #2563eb; font-weight: bold;\">bk-1784112777251</td>\n          </tr>\n          <tr>\n            <td style=\"padding: 6px 0; font-weight: 600;\">Property:</td>\n            <td style=\"padding: 6px 0; text-align: right;\">Amber Moon – Your Private Luxury Holiday Rental Retreat</td>\n          </tr>\n          <tr>\n            <td style=\"padding: 6px 0; font-weight: 600;\">Address:</td>\n            <td style=\"padding: 6px 0; text-align: right; color: #64748b; font-size: 12px;\">Amber Moon, V2XR+6M8, Haripur, Himachal Pradesh 173209</td>\n          </tr>\n          <tr>\n            <td style=\"padding: 6px 0; font-weight: 600;\">Room Type:</td>\n            <td style=\"padding: 6px 0; text-align: right;\">Vocational Villa (Villa)</td>\n          </tr>\n          <tr>\n            <td style=\"padding: 6px 0; font-weight: 600;\">Check-in Date:</td>\n            <td style=\"padding: 6px 0; text-align: right; color: #16a34a; font-weight: 600;\">2026-08-08 (from 14:00)</td>\n          </tr>\n          <tr>\n            <td style=\"padding: 6px 0; font-weight: 600;\">Check-out Date:</td>\n            <td style=\"padding: 6px 0; text-align: right; color: #dc2626; font-weight: 600;\">2026-08-10 (by 11:00)</td>\n          </tr>\n          <tr>\n            <td style=\"padding: 6px 0; font-weight: 600;\">Guests:</td>\n            <td style=\"padding: 6px 0; text-align: right;\">2 Adults, 0 Children</td>\n          </tr>\n        </table>\n      </div>\n\n      <div style=\"background-color: #f0fdf4; border-radius: 8px; padding: 16px; margin: 24px 0; border: 1px solid #dcfce7;\">\n        <h3 style=\"color: #166534; margin-top: 0; border-bottom: 1px solid #bbf7d0; padding-bottom: 8px;\">Payment Details</h3>\n        <table style=\"width: 100%; border-collapse: collapse; font-size: 14px; color: #334155;\">\n          <tr>\n            <td style=\"padding: 6px 0;\">Total Room Charges:</td>\n            <td style=\"padding: 6px 0; text-align: right;\">₹60000.00</td>\n          </tr>\n          \n          <tr style=\"border-top: 1px solid #bbf7d0; font-size: 15px; font-weight: bold; color: #14532d;\">\n            <td style=\"padding: 10px 0 6px 0;\">Total Booking Cost:</td>\n            <td style=\"padding: 10px 0 6px 0; text-align: right;\">₹60000.00</td>\n          </tr>\n          <tr style=\"border-top: 1px dashed #bbf7d0; font-size: 16px; font-weight: bold; color: #166534;\">\n            <td style=\"padding: 8px 0 4px 0;\">Amount Paid:</td>\n            <td style=\"padding: 8px 0 4px 0; text-align: right; color: #16a34a;\">₹19800.00</td>\n          </tr>\n          \n          <tr style=\"font-size: 15px; font-weight: bold; color: #b45309;\">\n            <td style=\"padding: 4px 0 4px 0;\">Remaining Balance:</td>\n            <td style=\"padding: 4px 0 4px 0; text-align: right;\">₹40200.00</td>\n          </tr>\n          \n          <tr>\n            <td style=\"padding: 8px 0 0 0; font-size: 11px; color: #166534; font-weight: 600;\">Payment Status:</td>\n            <td style=\"padding: 8px 0 0 0; text-align: right; font-size: 11px; font-weight: bold;\">\n              <span style=\"color: #b45309; background-color: #fef3c7; padding: 2px 8px; border-radius: 4px;\">PARTIALLY PAID (Pay balance at check-in)</span>\n            </td>\n          </tr>\n        </table>\n      </div>\n\n      <p style=\"font-size: 14px; color: #64748b; line-height: 1.5; margin-top: 32px; border-top: 1px solid #e2e8f0; padding-top: 16px;\">\n        If you need to make modifications or cancel your booking, please call us at <strong>0987654321</strong> or reply to this email at <strong>web.digikee@gmail.com</strong>.\n      </p>\n\n      <div style=\"text-align: center; margin-top: 24px; font-size: 11px; color: #94a3b8;\">\n        &copy; 2026 Holiday Rentals Max Channel & Booking Engine. Secured Relational Persistence System.\n      </div>\n    </div>\n  ",
+      "id": "em-1784112777251",
+      "sent_at": "2026-07-15T10:52:57.252Z"
+    }
+  ],
+  "owners": [
+    {
+      "id": "owner-digikee",
+      "name": "Wunder Homes",
+      "email": "web.digikee@gmail.com",
+      "phone": "+91 9876543210",
+      "company": "Luxury Villas",
+      "password": "web@1234"
+    }
+  ]
+}

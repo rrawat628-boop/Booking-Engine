@@ -1,0 +1,6 @@
+{
+  "name": "Holiday Rentals Hotel Booking Engine",
+  "description": "A robust, responsive multi-property hotel booking engine with real-time availability grids, iCal channel manager sync, pricing overrides, blackout blocks, Razorpay checkout, and email alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
